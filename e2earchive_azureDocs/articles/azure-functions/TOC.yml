@@ -1,0 +1,101 @@
+- name: Quickstarts
+  items:
+  - name: Triggers
+    items:
+    - name: Azure Cosmos DB
+      href: functions-create-cosmos-db-triggered-function.md
+    - name: Blob storage
+      href: functions-create-storage-blob-triggered-function.md
+    - name: Queue storage
+      href: functions-create-storage-queue-triggered-function.md
+    - name: Timer
+      href: functions-create-scheduled-function.md
+  - name: Integrate
+    items:
+    - name: Azure Cosmos DB
+      href: functions-integrate-store-unstructured-data-cosmosdb.md
+    - name: Storage - Python
+      href: functions-add-output-binding-storage-queue-python.md
+    - name: Storage - portal
+      href: functions-integrate-storage-queue-output-binding.md
+- name: Tutorials
+  items:
+  - name: Functions with Logic Apps
+    href: functions-twitter-email.md
+  - name: Create a serverless API
+    href: functions-create-serverless-api.md
+  - name: Create an OpenAPI definition
+    href: functions-openapi-definition.md
+  - name: Connect to a Virtual Network
+    href: functions-create-vnet.md
+  - name: Image resize with Event Grid
+    href: ../event-grid/resize-images-on-storage-blob-upload-event.md
+  - name: Create a serverless web app
+    href: /learn/modules/automatic-update-of-a-webapp-using-azure-functions-and-signalr
+  - name: Create a custom Linux image
+    href: functions-create-function-linux-custom-image.md
+  - name: Functions on IoT Edge device
+    href: ../iot-edge/tutorial-deploy-function.md
+- name: Samples
+  items:
+  - name: Azure Serverless Community Library
+    href: https://www.serverlesslibrary.net/
+  - name: Azure Samples
+    href: https://azure.microsoft.com/resources/samples/?service=functions
+  - name: Azure CLI
+    href: functions-cli-samples.md
+- name: Concepts
+  items:
+  - name: Compare versions 1.x and 2.x
+    displayName: migrate, migration
+    href: functions-versions.md
+  - name: Scale and hosting
+    href: functions-scale.md
+  - name: Premium plan
+    href: functions-premium-plan.md
+  - name: Deployments
+    href: functions-deployment-technologies.md
+  - name: Triggers and bindings
+    items:
+    - name: About triggers and bindings
+      href: functions-triggers-bindings.md
+    - name: Binding example
+      href: functions-bindings-example.md
+    - name: Register binding extensions
+      href: functions-bindings-register.md
+    - name: Binding expression patterns
+      href: functions-bindings-expressions-patterns.md
+    - name: Use binding return values
+      href: functions-bindings-return-value.md
+    - name: Handle binding errors
+      href: functions-bindings-errors.md
+  - name: Languages
+    items:
+    - name: Supported languages
+      href: supported-languages.md
+    - name: C# (class library)
+      href: functions-dotnet-class-library.md
+    - name: C# script (.csx)
+      href: functions-reference-csharp.md
+    - name: F#
+      href: functions-reference-fsharp.md
+    - name: JavaScript
+      href: functions-reference-node.md
+    - name: Java
+      href: functions-reference-java.md
+    - name: PowerShell
+      href: functions-reference-powershell.md
+    - name: Python
+      href: functions-reference-python.md
+  - name: Diagnostics
+    href: ../app-service/overview-diagnostics.md
+  - name: Performance considerations
+    href: functions-best-practices.md
+  - name: Functions Proxies
+    href: functions-proxies.md
+  - name: Networking options
+    href: functions-networking-options.md
+  - name: IP addresses
+    href: ip-addresses.md
+  - name: Functions in Kubernetes
+    href: functions-kubernetes-keda.md

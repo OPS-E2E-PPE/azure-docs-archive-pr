@@ -1,0 +1,4 @@
+- name: Tutorials
+  items:
+  - name: Resize uploaded images
+    href: resize-images-on-storage-blob-upload-event.md

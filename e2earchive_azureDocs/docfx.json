@@ -1,15 +1,93 @@
 {
   "build": {
     "content": [
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**"
+        ],
+        "src": "articles",
+        "dest": "."
+      },
+      {
+        "files": [
+          "**/*.md",
+          "**/*.yml"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/includes/**",
+          "**/_themes/**"
+        ],
+        "src": "bread",
+        "dest": "bread"
+      }
     ],
     "resource": [
+      {
+        "files": [
+          "**/*.svg",
+          "**/*.png",
+          "**/*.jpg",
+          "**/*.jpeg",
+          "**/*.gif",
+          "**/*.svg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/_themes/**"
+        ],
+        "src": "articles",
+        "dest": "."
+      },
+      {
+        "files": [
+          "includes/**/*.svg",
+          "includes/**/*.png",
+          "includes/**/*.jpg",
+          "includes/**/*.jpeg",
+          "includes/**/*.gif"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "**/_themes/**"
+        ]
+      }
     ],
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
+      "feedback_system": "GitHub",
+      "breadcrumb_path": "/azure/bread/toc.json",
+      "_op_documentIdPathDepotMapping": {
+        "./": {
+          "depot_name": "MSDN.azure-docs"
+        }
+      },
+      "is_archived": true,
+      "is_retired": false,
+      "ROBOTS": "NOINDEX,NOFOLLOW",
+      "docs_archive": "tool"
     },
-    "fileMetadata": {},
-    "template": [],
+    "fileMetadata": {
+      "feedback_system": {
+        "articles/virtual-machines/windows/classic/**/*": "None",
+        "articles/virtual-machines/linux/classic/**/*": "None"
+      },
+      "titleSuffix": {
+        "articles/governance/blueprints/**/*.md": "Azure Blueprints",
+        "articles/governance/policy/**/*.md": "Azure Policy",
+        "articles/governance/resource-graph/**/*.md": "Azure Resource Graph"
+      }
+    },
+    "template": [
+      "docs.html"
+    ],
     "dest": "archive-template",
     "markdownEngineName": "markdig"
   }
