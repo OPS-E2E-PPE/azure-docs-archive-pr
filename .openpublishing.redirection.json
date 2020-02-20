@@ -1,0 +1,420 @@
+{
+  "redirections": [
+    {
+      "source_path": "e2earchive_azureDocs/articles/cosmos-db/documentdb-introduction.md",
+      "redirect_url": "/azure-docs/cosmos-db/documentdb-introduction"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/cosmos-db/serverless-computing-database.md",
+      "redirect_url": "/azure-docs/cosmos-db/serverless-computing-database"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/cosmos-db/partition-data.md",
+      "redirect_url": "/azure-docs/cosmos-db/partition-data"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-cosmosdb.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-cosmosdb"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/cosmos-db/cassandra-introduction.md",
+      "redirect_url": "/azure-docs/cosmos-db/cassandra-introduction"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/cosmos-db/mongodb-introduction.md",
+      "redirect_url": "/azure-docs/cosmos-db/mongodb-introduction"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/cosmos-db/table-introduction.md",
+      "redirect_url": "/azure-docs/cosmos-db/table-introduction"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/cosmos-db/graph-introduction.md",
+      "redirect_url": "/azure-docs/cosmos-db/graph-introduction"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-monitoring.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-monitoring"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/storage/common/storage-quickstart-create-account.md",
+      "redirect_url": "/azure-docs/storage/common/storage-quickstart-create-account"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-resource-manager/resource-group-overview.md",
+      "redirect_url": "/azure-docs/azure-resource-manager/resource-group-overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-storage-blob.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-storage-blob"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-storage-queue.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-storage-queue"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-timer.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-timer"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-first-azure-function.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-first-azure-function"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-reference.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-reference"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-develop-local.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-develop-local"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-first-function-python.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-first-function-python"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/logic-apps/logic-apps-overview.md",
+      "redirect_url": "/azure-docs/logic-apps/logic-apps-overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/api-management/edit-api.md",
+      "redirect_url": "/azure-docs/api-management/edit-api"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/api-management/api-management-key-concepts.md",
+      "redirect_url": "/azure-docs/api-management/api-management-key-concepts"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/web-sites-integrate-with-vnet.md",
+      "redirect_url": "/azure-docs/app-service/web-sites-integrate-with-vnet"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/overview.md",
+      "redirect_url": "/azure-docs/app-service/overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/storage/blobs/storage-upload-process-images.md",
+      "redirect_url": "/azure-docs/storage/blobs/storage-upload-process-images"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/storage/blobs/storage-blobs-introduction.md",
+      "redirect_url": "/azure-docs/storage/blobs/storage-blobs-introduction"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-continuous-deployment.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-continuous-deployment"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/event-grid/security-authentication.md",
+      "redirect_url": "/azure-docs/event-grid/security-authentication"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/storage/blobs/storage-secure-access-application.md",
+      "redirect_url": "/azure-docs/storage/blobs/storage-secure-access-application"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/event-grid/overview.md",
+      "redirect_url": "/azure-docs/event-grid/overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-overview.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/containers/app-service-linux-ci-cd.md",
+      "redirect_url": "/azure-docs/app-service/containers/app-service-linux-ci-cd"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-first-azure-function-azure-cli-linux.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-first-azure-function-azure-cli-linux"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/iot-edge/tutorial-deploy-stream-analytics.md",
+      "redirect_url": "/azure-docs/iot-edge/tutorial-deploy-stream-analytics"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/iot-edge/quickstart.md",
+      "redirect_url": "/azure-docs/iot-edge/quickstart"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/iot-edge/tutorial-develop-for-linux.md",
+      "redirect_url": "/azure-docs/iot-edge/tutorial-develop-for-linux"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/iot-edge/quickstart-linux.md",
+      "redirect_url": "/azure-docs/iot-edge/quickstart-linux"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/iot-hub/iot-hub-create-through-portal.md",
+      "redirect_url": "/azure-docs/iot-hub/iot-hub-create-through-portal"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/iot-edge/how-to-vs-code-develop-module.md",
+      "redirect_url": "/azure-docs/iot-edge/how-to-vs-code-develop-module"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-configure-custom-domain.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-configure-custom-domain"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-configure-ssl-certificate.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-configure-ssl-certificate"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-create-function-app-vsts-continuous.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-create-function-app-vsts-continuous"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-create-serverless.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-create-serverless"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-create-function-app-github-continuous.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-create-function-app-github-continuous"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-create-app-service-plan.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-create-app-service-plan"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-create-function-app-connect-to-cosmos-db.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-create-function-app-connect-to-cosmos-db"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/scripts/functions-cli-create-function-app-connect-to-storage-account.md",
+      "redirect_url": "/azure-docs/azure-functions/scripts/functions-cli-create-function-app-connect-to-storage-account"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-documentdb.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-documentdb"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/set-runtime-version.md",
+      "redirect_url": "/azure-docs/azure-functions/set-runtime-version"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-runtime-overview.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-runtime-overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-run-local.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-run-local"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-signalr-service.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-signalr-service"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-event-grid.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-event-grid"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-notification-hubs.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-notification-hubs"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-microsoft-graph.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-microsoft-graph"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-twilio.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-twilio"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-http-webhook.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-http-webhook"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-sendgrid.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-sendgrid"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-mobile-apps.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-mobile-apps"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-storage-table.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-storage-table"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-event-hubs.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-event-hubs"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-service-bus.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-service-bus"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/overview-hosting-plans.md",
+      "redirect_url": "/azure-docs/app-service/overview-hosting-plans"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-monitor/platform/autoscale-get-started.md",
+      "redirect_url": "/azure-docs/azure-monitor/platform/autoscale-get-started"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/manage-connections.md",
+      "redirect_url": "/azure-docs/azure-functions/manage-connections"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/web-sites-scale.md",
+      "redirect_url": "/azure-docs/app-service/web-sites-scale"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/virtual-machines/windows/acu.md",
+      "redirect_url": "/azure-docs/virtual-machines/windows/acu"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/app-service-web-tutorial-custom-ssl.md",
+      "redirect_url": "/azure-docs/app-service/app-service-web-tutorial-custom-ssl"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/deploy-content-sync.md",
+      "redirect_url": "/azure-docs/app-service/deploy-content-sync"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/deploy-staging-slots.md",
+      "redirect_url": "/azure-docs/app-service/deploy-staging-slots"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/run-functions-from-deployment-package.md",
+      "redirect_url": "/azure-docs/azure-functions/run-functions-from-deployment-package"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/deploy-local-git.md",
+      "redirect_url": "/azure-docs/app-service/deploy-local-git"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-how-to-azure-devops.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-how-to-azure-devops"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/deployment-zip-push.md",
+      "redirect_url": "/azure-docs/azure-functions/deployment-zip-push"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/deploy-ftp.md",
+      "redirect_url": "/azure-docs/app-service/deploy-ftp"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-first-function-vs-code.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-first-function-vs-code"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-your-first-function-visual-studio.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-your-first-function-visual-studio"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-infrastructure-as-code.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-infrastructure-as-code"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-manually-run-non-http.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-manually-run-non-http"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-test-a-function.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-test-a-function"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-bindings-error-pages.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-bindings-error-pages"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-host-json.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-host-json"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-develop-vs.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-develop-vs"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-function-app-portal.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-function-app-portal"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/troubleshoot-diagnostic-logs.md",
+      "redirect_url": "/azure-docs/app-service/troubleshoot-diagnostic-logs"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/monitoring-and-diagnostics/insights-how-to-scale.md",
+      "redirect_url": "/azure-docs/monitoring-and-diagnostics/insights-how-to-scale"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-app-settings.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-app-settings"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-host-json-v1.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-host-json-v1"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-maven-eclipse.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-maven-eclipse"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-maven-intellij.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-maven-intellij"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-first-java-maven.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-first-java-maven"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-create-first-function-powershell.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-create-first-function-powershell"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/app-service-best-practices.md",
+      "redirect_url": "/azure-docs/app-service/app-service-best-practices"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/durable/durable-functions-concepts.md",
+      "redirect_url": "/azure-docs/azure-functions/durable/durable-functions-concepts"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/app-service-ip-restrictions.md",
+      "redirect_url": "/azure-docs/app-service/app-service-ip-restrictions"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/virtual-network/virtual-networks-overview.md",
+      "redirect_url": "/azure-docs/virtual-network/virtual-networks-overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/environment/create-ilb-ase.md",
+      "redirect_url": "/azure-docs/app-service/environment/create-ilb-ase"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/app-service-hybrid-connections.md",
+      "redirect_url": "/azure-docs/app-service/app-service-hybrid-connections"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/service-bus-relay/relay-hybrid-connections-protocol.md",
+      "redirect_url": "/azure-docs/service-bus-relay/relay-hybrid-connections-protocol"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/azure-functions/functions-networking-faq.md",
+      "redirect_url": "/azure-docs/azure-functions/functions-networking-faq"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/virtual-network/virtual-network-service-endpoints-overview.md",
+      "redirect_url": "/azure-docs/virtual-network/virtual-network-service-endpoints-overview"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/environment/intro.md",
+      "redirect_url": "/azure-docs/app-service/environment/intro"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/cloud-shell/quickstart.md",
+      "redirect_url": "/azure-docs/cloud-shell/quickstart"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/app-service/environment/app-service-app-service-environment-control-inbound-traffic.md",
+      "redirect_url": "/azure-docs/app-service/environment/app-service-app-service-environment-control-inbound-traffic"
+    },
+    {
+      "source_path": "e2earchive_azureDocs/articles/aks/virtual-nodes-cli.md",
+      "redirect_url": "/azure-docs/aks/virtual-nodes-cli"
+    }
+  ]
+}

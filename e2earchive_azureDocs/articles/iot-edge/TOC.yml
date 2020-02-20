@@ -1,0 +1,6 @@
+- name: Tutorials
+  items:
+  - name: 3. Deploy Azure services as modules
+    items:
+    - name: Filter data with Azure Functions
+      href: tutorial-deploy-function.md
